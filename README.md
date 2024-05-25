@@ -1,6 +1,7 @@
           Hi👋, I’m Ajay Vilas Pagar
-- 🌱 I’m currently working as Frontend Developer focussing on MERN stack.
-- 👀 I’m currently learning Typescript with React ...
+- 🌱 I’m currently working as **Frontend** **Developer** focussing on MERN stack.
+- 👀 I’m currently learning **Typescript** with **React** ...
+- 🔭 My highly appreciated project : https://ajay-admin-dashboard.netlify.app/
 
 
 <!---
