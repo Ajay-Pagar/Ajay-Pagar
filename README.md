@@ -9,9 +9,9 @@
 
 - 👨‍💻 My highly appreciated project [**Admin-Dashboard**](https://ajay-admin-dashboard.netlify.app/)
 
-- 📫 How to reach me [**Gmail**](https://ajay-admin-dashboard.netlify.app/)
+- 📫 How to reach me [**Gmail**](mailto:ajayvpagar@gmail.com)
 
-- 📄 Know about my experiences [**Profile**](https://drive.google.com/file/d/1dWAtsKdwbM0eogLX8lF2eV-NGfxNH8zw/view?usp=drive_link)
+- 📄 Know about my experiences [**Profile**](https://drive.google.com/file/d/1wm5qpDjy3yHSMTZJESPBIk__8f4yVor4/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
