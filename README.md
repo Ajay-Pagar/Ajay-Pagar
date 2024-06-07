@@ -9,7 +9,7 @@
 
 - 👨‍💻 My highly appreciated project [**Admin-Dashboard**](https://ajay-admin-dashboard.netlify.app/)
 
-- 📫 How to reach me [**Gmail**](mailto:ajayvpagar@gmail.com)
+- 📫 How to reach me [**Gmail**](https://mail.google.com/mail/u/0/#inbox)
 
 - 📄 Know about my experiences [**Profile**](https://drive.google.com/file/d/1wm5qpDjy3yHSMTZJESPBIk__8f4yVor4/view)
 
